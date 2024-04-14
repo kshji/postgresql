@@ -12,6 +12,7 @@ It can be used for sorting just like SERIAL type keys.
   * [Good bye integers, welcome uuids](https://buildkite.com/blog/goodbye-integers-hello-uuids)
   * [Kvelakur C-language version using SSL Rand -uuidv4](https://gist.github.com/kvelakur/9069c9896577c3040030)
   * [My ksh shellscript to generate uuidV7](https://github.com/kshji/ksh/blob/master/Sh/uuidv7.sh)
+  * [My uuid tools collection](ttps://github.com/kshji/uuid/)
 
 ### Extension
 

@@ -11,6 +11,7 @@ It can be used for sorting just like SERIAL type keys.
   * [Why uuidv7 is better ...](https://itnext.io/why-uuid7-is-better-than-uuid4-as-clustered-index-edb02bf70056)
   * [Good bye integers, welcome uuids](https://buildkite.com/blog/goodbye-integers-hello-uuids)
   * [Kvelakur C-language version using SSL Rand -uuidv4](https://gist.github.com/kvelakur/9069c9896577c3040030)
+  * [My ksh shellscript to generate uuidV7](https://github.com/kshji/ksh/blob/master/Sh/uuidv7.sh)
 
 ### Extension
 
